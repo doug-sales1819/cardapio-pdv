@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# cardapio-pdv
-=======
 # cardapio-pdv
 
 An Electron application with React and TypeScript
@@ -35,4 +32,3 @@ $ yarn build:mac
 # For Linux
 $ yarn build:linux
 ```
->>>>>>> afe1186 (chore: Add initial project files and configurations)
